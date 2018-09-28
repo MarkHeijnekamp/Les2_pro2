@@ -22,6 +22,12 @@ public class Index {
         if (input == 666){
             System.out.println("YOU DEVIL");
         }
+        if (input == 42){
+            System.out.println("Thats the meaning of life");
+        }
+        if (input == 101){
+            System.out.println("you want to introductory something");
+        }
 
     }
 
